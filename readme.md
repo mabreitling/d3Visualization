@@ -23,7 +23,7 @@ in the bottom left corner in the same color.
 
 #### Screenshot of running vis:
 
-![Screenshot of running vis](https://github.com/mabreitling/d3Visualization/blob/master/screenshot.png, "")
+![Screenshot of running vis](https://github.com/mabreitling/d3Visualization/blob/master/screenshot.png)
 	
 
 
