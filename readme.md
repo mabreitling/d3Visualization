@@ -20,6 +20,10 @@ First things first: Visualization might not work properly if just ran locally. W
 	distribution in the respective region.
   - Mouseover over a region colors it in red and shows the name of the region
 in the bottom left corner in the same color.
+
+#### Screenshot of running vis:
+
+![Screenshot of running vis](screenshot.png, "")
 	
 
 
