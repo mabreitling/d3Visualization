@@ -1,15 +1,14 @@
+Final Visualization for Introductory d3-Seminar
+
+DrivenData: DataMining the Water Table in Tanzania
+
 Question: How is the distribution of the functional status of water pumps in Tanzania
 for specific regions?
-
-Only some words to the visualization, I'm not sure if that suits the level you thought about.
-
-In case anything is not showing/working just a few words what it actually
-should do:
 
 There are three datasources:
 
 1) trainDataPreRed.csv
-- preprocessed version of a challenge offered by DrivenData, constisted of over
+- preprocessed version of a challenge offered by DrivenData. Consisted of over
 40 variables originally, was heavily reduced for sake of file size:
 
 https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
