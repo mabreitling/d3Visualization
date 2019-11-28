@@ -1,0 +1,55 @@
+<!-- based on the template from https://bl.ocks.org/alanvillalobos/14e9f0d80ea6b0d8083ba95a9d571d13 -->
+<!--  customized to the dataset -->
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="./style.css">
+<head>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+    <style>
+        div {
+        }
+        #blocks {
+            height: 800px; 
+            width:   1300px; 
+            margin: auto;
+            background-color: #6b7682; 
+            vertical-align: middle;
+        }
+        #left {
+            height: 800px;
+            width: 800px;
+            background: #6b7682;
+            float: left;
+        }
+        #upperRight {
+            height:400px;
+            width:500px;
+            background: #6b7682;
+            float: right;
+        }
+        #lowerRight {
+            height:400px;
+            width:500px;
+            background: #6b7682;  
+            float: right;
+        }
+    
+</style>
+</head>
+<body>
+<div id=blocks>
+    <div id=left></div>
+    <div id=upperRight></div>
+    <div id=lowerRight>
+    <p style="font-family: verdana, sans-serif; font-size:14pt; color:#dbbf83; font-style:italic">
+    <input type="checkbox" id="checkBoxFunctional" onclick="handleClick(this);"> Functional<br>
+    <input type="checkbox" id="checkBoxRepair" onclick="handleClick(this);"> Need Repair<br>
+    <input type="checkbox" id="checkBoxNonFunctional" onclick="handleClick(this);"> Non Functional
+    </p>
+    </div>
+</div>
+<script src="d3.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+</body>
+

@@ -1,0 +1,254 @@
+[
+ {
+   "Region": "Arusha",
+   "Capital": "Arusha",
+   "Districts": 7,
+   "Area": "37,576 km2",
+   "Population": "1694310",
+   "Postcode": "23xxx",
+   "Zone": "Northern"
+ },
+ {
+   "Region": "Dar",
+   "Capital": "Dar es Salaam",
+   "Districts": 5,
+   "Area": "1,393 km2",
+   "Population": "4364541",
+   "Postcode": "11xxx",
+   "Zone": "Coastal"
+ },
+ {
+   "Region": "Dodoma",
+   "Capital": "Dodoma",
+   "Districts": 7,
+   "Area": "41,311 km2",
+   "Population": "2083588",
+   "Postcode": "41xxx",
+   "Zone": "Central"
+ },
+ {
+   "Region": "Geita",
+   "Capital": "Geita",
+   "Districts": 5,
+   "Area": "20,054 km2",
+   "Population": "1739530",
+   "Postcode": "30xxx",
+   "Zone": "Lake"
+ },
+ {
+   "Region": "Iringa",
+   "Capital": "Iringa",
+   "Districts": 5,
+   "Area": "35,503 km2",
+   "Population": "941238",
+   "Postcode": "51xxx",
+   "Zone": "Southern Highlands"
+ },
+ {
+   "Region": "Kagera",
+   "Capital": "Bukoba",
+   "Districts": 8,
+   "Area": "25,265 km2",
+   "Population": "2458023",
+   "Postcode": "35xxx",
+   "Zone": "Lake"
+ },
+ {
+   "Region": "Katavi",
+   "Capital": "Mpanda",
+   "Districts": 3,
+   "Area": "45,843 km2",
+   "Population": "564604",
+   "Postcode": "50xxx",
+   "Zone": "Western"
+ },
+ {
+   "Region": "Kigoma",
+   "Capital": "Kigoma",
+   "Districts": 8,
+   "Area": "37,040 km2",
+   "Population": "2127930",
+   "Postcode": "47xxx",
+   "Zone": "Western"
+ },
+ {
+   "Region": "Kilimanjaro",
+   "Capital": "Moshi",
+   "Districts": 7,
+   "Area": "13,250 km2",
+   "Population": "1640087",
+   "Postcode": "25xxx",
+   "Zone": "Northern"
+ },
+ {
+   "Region": "Lindi",
+   "Capital": "Lindi",
+   "Districts": 6,
+   "Area": "66,040 km2",
+   "Population": "864652",
+   "Postcode": "65xxx",
+   "Zone": "Coastal"
+ },
+ {
+   "Region": "Manyara",
+   "Capital": "Babati",
+   "Districts": 6,
+   "Area": "44,522 km2",
+   "Population": "1425131",
+   "Postcode": "27xxx",
+   "Zone": "Northern"
+ },
+ {
+   "Region": "Mara",
+   "Capital": "Musoma",
+   "Districts": 7,
+   "Area": "21,760 km2",
+   "Population": "1743830",
+   "Postcode": "31xxx",
+   "Zone": "Lake"
+ },
+ {
+   "Region": "Mbeya",
+   "Capital": "Mbeya",
+   "Districts": 7,
+   "Area": "35,954 km2",
+   "Population": "2707410",
+   "Postcode": "53xxx",
+   "Zone": "Southern Highlands"
+ },
+ {
+   "Region": "Morogoro",
+   "Capital": "Morogoro",
+   "Districts": 7,
+   "Area": "70,624 km2",
+   "Population": "2218492",
+   "Postcode": "67xxx",
+   "Zone": "Coastal"
+ },
+ {
+   "Region": "Mtwara",
+   "Capital": "Mtwara",
+   "Districts": 7,
+   "Area": "16,710 km2",
+   "Population": "1270854",
+   "Postcode": "63xxx",
+   "Zone": "Coastal"
+ },
+ {
+   "Region": "Mwanza",
+   "Capital": "Mwanza",
+   "Districts": 7,
+   "Area": "9,467 km2",
+   "Population": "2772509",
+   "Postcode": "33xxx",
+   "Zone": "Lake"
+ },
+ {
+   "Region": "Njombe",
+   "Capital": "Njombe",
+   "Districts": 6,
+   "Area": "21,347 km2",
+   "Population": "702097",
+   "Postcode": "59xxx",
+   "Zone": "Southern Highlands"
+ },
+ {
+   "Region": "Pemba",
+   "Capital": "Wete",
+   "Districts": 2,
+   "Area": "574 km2",
+   "Population": "211732",
+   "Postcode": "75xxx",
+   "Zone": "Zanzibar"
+ },
+ {
+   "Region": "Pemba",
+   "Capital": "Chake-Chake",
+   "Districts": 2,
+   "Area": "332 km2",
+   "Population": "195116",
+   "Postcode": "74xxx",
+   "Zone": "Zanzibar"
+ },
+ {
+   "Region": "Pwani",
+   "Capital": "Kibaha",
+   "Districts": 7,
+   "Area": "32,547 km2",
+   "Population": "1098668",
+   "Postcode": "61xxx",
+   "Zone": "Coastal"
+ },
+ {
+   "Region": "Rukwa",
+   "Capital": "Sumbawanga",
+   "Districts": 4,
+   "Area": "22,792 km2",
+   "Population": "1004539",
+   "Postcode": "55xxx",
+   "Zone": "Southern Highlands"
+ },
+ {
+   "Region": "Ruvuma",
+   "Capital": "Songea",
+   "Districts": 6,
+   "Area": "63,669 km2",
+   "Population": "1376891",
+   "Postcode": "57xxx",
+   "Zone": "Southern Highlands"
+ },
+ {
+   "Region": "Shinyanga",
+   "Capital": "Shinyanga",
+   "Districts": 5,
+   "Area": "18,901 km2",
+   "Population": "1534808",
+   "Postcode": "37xxx",
+   "Zone": "Lake"
+ },
+ {
+   "Region": "Simiyu",
+   "Capital": "Bariadi",
+   "Districts": 5,
+   "Area": "25,212 km2",
+   "Population": "1584157",
+   "Postcode": "39xxx",
+   "Zone": "Lake"
+ },
+ {
+   "Region": "Singida",
+   "Capital": "Singida",
+   "Districts": 6,
+   "Area": "49,340 km2",
+   "Population": "1370637",
+   "Postcode": "43xxx",
+   "Zone": "Central"
+ },
+ {
+   "Region": "Songwe",
+   "Capital": "Vwawa",
+   "Districts": 5,
+   "Area": "27,656 km2",
+   "Population": "–",
+   "Postcode": "–",
+   "Zone": "Southern Highlands"
+ },
+ {
+   "Region": "Tabora",
+   "Capital": "Tabora",
+   "Districts": 7,
+   "Area": "76,150 km2",
+   "Population": "2291623",
+   "Postcode": "45xxx",
+   "Zone": "Central"
+ },
+ {
+   "Region": "Tanga",
+   "Capital": "Tanga",
+   "Districts": 10,
+   "Area": "26,667 km2)",
+   "Population": "2045205",
+   "Postcode": "21xxx",
+   "Zone": "Northern"
+ }
+]

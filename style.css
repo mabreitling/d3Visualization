@@ -1,0 +1,53 @@
+#pieChart {    
+	position:absolute;
+	top:10px;
+	left:10px;
+	width:400px;
+	height: 400px; 
+}
+
+
+#lineChart {    
+	position:absolute;
+	top:10px;
+	left:410px;
+	height: 150px;
+}
+
+#barChart {
+	position:absolute;
+	top:160px;
+	left:410px;
+	height: 250px;
+}
+
+infoTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    table-layout: fixed;
+    opacity: 1.0;
+    width: 500px;
+}
+
+#infoTable td, #infoTable th {
+    border: 1px solid #fff;
+    padding: 8px;
+    opacity: 1.0;
+    width: 90px;
+}
+
+#infoTable tr:nth-child(even){background-color: #ddd;}
+#infoTable tr:nth-child(odd){background-color: #fff;}
+
+
+#infoTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #ddd;
+    opacity: 1.0;
+}
+
+.bar {
+  fill: #dbbf83;
+}
